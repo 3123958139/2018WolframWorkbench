@@ -8,8 +8,11 @@
 
 * [Eclipse 4.6 (Neon)](https://eclipse.org/downloads/) 
 * Workbench 10.1 for Eclipse
+  * https://pan.baidu.com/s/1Rjtv_cNhAA7YBiKxcNy_rg
+  * ![eclipse下载jar插件的方法](eclipse下载jar插件的方法.png)
+  * ![eclipse下载jar插件的方法](eclipse下载jar插件的方法.bmp)
 
-![eclipse下载jar插件的方法](eclipse下载jar插件的方法.png)
+
 
 
 
